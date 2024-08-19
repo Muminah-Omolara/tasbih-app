@@ -1,0 +1,15 @@
+.navbuttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #819ca8;
+  cursor: pointer;
+  text-align: center;
+}

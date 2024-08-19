@@ -1,0 +1,19 @@
+.all-btns-container {
+  margin-top: 5px;
+}
+
+.small-btns-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.increase-btn {
+  cursor: pointer;
+  background-color: #819ca8;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-left: 20px;
+}

@@ -1,0 +1,17 @@
+.heading-container {
+    text-align: center;
+}
+
+.heading-text {
+  color: white;
+  margin-bottom: 1px;
+}
+
+.reminder-text {
+  color: #819ca8;
+}
+
+.reminder-count {
+  color: #ddd640;
+  cursor: pointer;
+}
