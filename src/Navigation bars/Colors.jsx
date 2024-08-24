@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
-export default function Colors() {
+export default function 
+Colors() {
   const [color, setColor] = useState("#465a65");
 
   const getRandomColors = () => {

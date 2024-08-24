@@ -34,8 +34,9 @@ const ControlButtons = ({ onIncrease, onDecrease, onReset }) => {
             </p>
           </IconContainer>
         </div>
+
         <div>
-          <div className="increase-btn" onClick={onIncrease}></div>
+          <button className="increase-btn" onClick={onIncrease}></button>
         </div>
       </div>
     </div>
